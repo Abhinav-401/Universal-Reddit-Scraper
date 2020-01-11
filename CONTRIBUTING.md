@@ -193,8 +193,6 @@ Note that this will overwrite the old branch on the server, so make sure you are
 
 ## Community
 
-Include Other Notes on how people can contribute
-
 - If you know the answer (or a better solution to an existing answer) to a question that was listed in the `Issues` tab, feel free to contribute.
 
 - If you have a better implementation of existing code that will improve runtime or streamline existing code, follow the pull request process to suggest improvements.
