@@ -205,7 +205,7 @@ Web scrapers such as this one may be used in a professional environment, specifi
 
 Additionally, this scraper may be used by businesses to better understand their target audience, improvements that can be made to existing products, or even spawn new ideas/products based on audience demands.
 
-## ***Thank you all for using this program!***
+# ***Thank you all for using this program!***
 
 [0]: CODE_OF_CONDUCT.md
 [1]: style_guidelines.md
